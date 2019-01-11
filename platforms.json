@@ -1,0 +1,9 @@
+[{"actionUrl":"http://m.iqiyi.com/","pictureUrl":"assets/images/iqy.jpg","name":"爱奇艺","id":1},
+  {"actionUrl":"http://m.v.qq.com/","pictureUrl":"assets/images/tencent_tv.png","name":"腾讯视频","id":2},
+  {"actionUrl":"http://www.youku.com/","pictureUrl":"assets/images/youku.jpg","name":"优酷视频","id":3},
+  {"actionUrl":"http://m.le.com/","pictureUrl":"assets/images/letc.jpg","name":"乐视视频","id":4},
+  {"actionUrl":"http://m.tv.sohu.com/","pictureUrl":"assets/images/souhu.jpg","name":"搜狐视频","id":5},
+  {"actionUrl":"http://m.pptv.com/","pictureUrl":"assets/images/pptv.jpg","name":"PPTV","id":6},
+  {"actionUrl":"https://m.bilibili.com/index.html","pictureUrl":"assets/images/bilibili.jpg","name":"BiliBili","id":7},
+  {"actionUrl":"http://m.tv.cztv.com/","pictureUrl":"assets/images/cztv.jpg","name":"中国蓝TV","id":8},
+  {"actionUrl":"https://m.mgtv.com/","pictureUrl":"assets/images/mg_tv.jpg","name":"芒果TV","id":9}]
